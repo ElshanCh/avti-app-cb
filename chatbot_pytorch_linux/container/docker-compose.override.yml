@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  db:
+    image: ${DB_IMAGE}
+    restart: unless-stopped
+    environment:
+      POSTGRES_PASSWORD: ${CI_APP_DB_PASSWORD:-Password123!}
+    volumes:
+    - pg_data:/var/lib/postgresql/data
+    ## SWARM
+    # deploy:
+    #   replicas: 1
+    #   placement:
+    #     constraints:
+    #       - "node.labels.project==publish"
+    #       - "node.labels.role==db-server"

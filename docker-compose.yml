@@ -1,0 +1,34 @@
+version: '3.9'
+
+networks:
+  chatbot:
+    name: avti-cb-${DEPLOY_ENV}
+
+# pre install:
+# > export ENV=test
+# docker network create avti-fe-$ENV
+# docker network create avti-be-$ENV
+# docker network create avti-db-$ENV
+
+volumes:
+  pg_data:
+
+services:
+  chatbot:
+    environment:
+      host: ${CI_APP_DB_HOST}
+      user: ${CI_APP_DB_USER}
+      password: ${CI_APP_DB_PASSWORD}
+      dbname: ${CI_APP_DB_NAME}
+      port: ${CI_APP_DB_PORT}
+      APP_HOST: 0.0.0.0
+      APP_PORT: ${CB_INTERNAL_PORT:-5000}
+    image: ${DOCKER_IMAGE}
+    restart: unless-stopped
+    networks:
+      chatbot: {}
+    ports:
+    - mode: ingress
+      target: ${CB_INTERNAL_PORT:-5000}
+      published: ${CB_EXPOSE_PORT:-15301}
+      host_ip: ${CB_EXPOSE_IF:-127.0.0.1}

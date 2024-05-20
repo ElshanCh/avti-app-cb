@@ -1,0 +1,519 @@
+text,label
+"What is ur name?", 1
+"Who are you?", 1
+"What's ur name?", 1
+"Can I have ur name?", 1
+"Can I have ur name?", 1
+"Can you tell me ur name?", 1
+"Can you tell me ur name?", 1
+"what would ur name be?", 1
+"What can I call you?", 1
+"what is ur name?", 1
+"what's ur name?", 1
+"How can I address you?", 1
+"What are you named?", 1
+"What're you named?", 1
+"What do you call urself?", 1
+"What does everyone call you?", 1
+"I am  Sam, and you?", 1 
+"My name is Kalam and urs?", 1
+"Hey, I never got a chance to ask ur name, could you tell me ur name, please?", 1
+"My name is Kalam and urs?", 1
+"How shall I address you?", 1
+"How may I address you?", 1
+"How should I address you?", 1
+"What should I call you?", 1
+"What shall I call you?", 1
+"What may I call you?", 1
+"May I have ur name?", 1
+"hi, my name is (.*)", 1
+"hi, my name is (.*). could you plese help me to (.*)", 1
+"How do they call you?", 1
+"May I ask you ur name?", 1
+"Do you mind if I ask you ur name?", 1
+"Would you mind if I ask you ur name?", 1
+"May I have ur name?", 1
+"How may I address you?", 1
+"Come again! I did not get it right.", 1
+"Sorry! I did not catch ur name?", 1
+"Pardon me! I did not get it right?", 1
+"Sorry! May I have ur name again?", 1
+"Sorry! Can I have ur name again?", 1
+"Pardon me! May I have ur name again?", 1
+"Sorry! I seem to have forgotten ur name.", 1
+"I am afraid! I don't seem to remember ur name again?", 1
+"Forgive me! ur name's completely slipped my mind?", 1
+"This is so embarrassing, but I can not remember ur name?", 1
+"I am so sorry, I am terrible with names. Can you repeat ur name again?", 1
+"ur name is?", 1
+"ur name is", 1
+"hello, my name is (.*)", 1
+"my name is (.*)", 1
+"hi, my name is (.*)", 1
+"hi, my name is (.*). could you plese help me to (.*)", 1
+"hello, my name is (.*). could you plese help me to (.*)", 1
+"it is a rainy day", 0
+"what is ur brother's name?",0
+"what is ur sisters's name?", 0
+"what is ur mother's name?", 0
+"what is ur fathers's name?", 0
+"what is ur dog's name?", 0
+"what is ur pet's name?", 0
+"what is his brother's name?", 0
+"what are ur parents' names?", 0
+"what are ur cousins' names?",0
+"What is your name?", 1
+"Who are you?", 1
+"What's your name?", 1
+"Can I have your name?", 1
+"Can you tell me your name?", 1
+"what would your name be?", 1
+"What can I call you?", 1
+"How can I address you?", 1
+"What are you named?", 1
+"What do you call yourself?", 1
+"What does everyone call you?", 1
+"I am  (.*), and you?", 1 
+"My name is Kalam and yours?", 1
+"Hey, I never got a chance to ask your name, could you tell me your name, please?", 1
+"My name is Kalam and yours?", 1
+"How shall I address you?", 1
+"How may I address you?", 1
+"How should I address you?", 1
+"What should I call you?", 1
+"What shall I call you?", 1
+"What may I call you?", 1
+"May I have your name?", 1
+"hi, my name is (.*)", 1
+"hi, my name is (.*). could you plese help me to (.*)", 1
+"How do they call you?", 1
+"May I ask you your name?", 1
+"Do you mind if I ask you your name?", 1
+"Would you mind if I ask you your name?", 1
+"May I have your name?", 1
+"How may I address you?", 1
+"Come again! I did not get it right.", 1
+"Sorry! I did not catch your name?", 1
+"Pardon me! I did not get it right?", 1
+"Sorry! May I have your name again?", 1
+"Sorry! Can I have your name again?", 1
+"Pardon me! May I have your name again?", 1
+"Sorry! I seem to have forgotten your name.", 1
+"I am afraid! I don't seem to remember your name again?", 1
+"Forgive me! your name's completely slipped my mind?", 1
+"This is so embarrassing, but I can not remember your name?", 1
+"I am so sorry, I am terrible with names. Can you repeat your name again?", 1
+"your name is?", 1
+"your name is", 1
+"hello, my name is (.*)", 1
+"my name is (.*)", 1
+"hi, my name is (.*)", 1
+"hi, my name is (.*). could you plese help me to (.*)", 1
+"hello, my name is (.*). could you plese help me to (.*)", 1
+"it is a rainy day", 0
+"what is your brother's name?",0
+"what is your sisters's name?", 0
+"what is your mother's name?", 0
+"what is your fathers's name?", 0
+"what is your dog's name?", 0
+"what is your pet's name?", 0
+"what is his brother's name?", 0
+"what are your parents' names?", 0
+"what are your cousins' names?",0
+"What is his name?", 0
+"What is her name? ", 0
+"What are their names?", 0
+"What is my name?", 0
+"What is its name?", 0
+"What are our name?", 0
+"What's her name?", 0
+"What's his name?", 0
+"What're their names?", 0
+"What's my name?", 0
+"Can I have my name?", 0
+"Can I have their names?", 0
+"Can I have their names?", 0
+"Can I have its name?", 0
+"what would his name be?", 0
+"what would her name be?", 0
+"what would my name be?", 0
+"what would their names be?", 0
+"what would its name be?", 0
+"what would our names be?", 0
+"What can I call him?", 0
+"What can I call her?", 0
+"What can I call it?", 0
+"What can I call me?", 0
+"How can I address me?", 0
+"How can I address it?", 0
+"How can I address us?", 0
+"What are they named?", 0
+"What are we named?", 0
+"What is he named?", 0
+"What is she named?", 0
+"What does it call itself?", 0
+"What do I call myself?", 0
+"What do they call themself?", 0
+"What do we call ourself?", 0
+"What does everyone call him?", 0
+"What does everyone call it?", 0
+"What does everyone call me?", 0
+"I am  Sam, and it?", 0
+"I am  Sam, and they?", 0
+"I am  Sam, and we?", 0
+"My name is Kalam and hers?", 0
+"My name is Kalam and his?", 0
+"My name is Kalam and its?", 0
+"Hey, I never got a chance to ask its name, could you tell me its name, please?", 0
+"Hey, I never got a chance to ask their names, could you tell me their names, please?" , 0
+"How shall I address him?" , 0
+"How shall I address her?" , 0
+"How shall I address it?" , 0
+"How shall I address them?" , 0
+"How shall I address us?" , 0
+"How may I address him?" , 0
+"How may I address her?" , 0
+"How may I address it?" , 0
+"How may I address them?" , 0
+"How should I address him?" , 0
+"How should I address her?" , 0
+"How should I address me?" , 0
+"What should I call her?" , 0
+"What should I call me?" , 0
+"What should I call it?" , 0
+"What should I call them?" , 0
+"What should I call us?" , 0
+"What shall I call him?" , 0
+"What shall I call her?" , 0
+"What shall I call me?" , 0
+"What shall I call it?" , 0
+"What shall I call them?" , 0
+"What shall I call us?" , 0
+"What may I call him?" , 0
+"What may I call her?" , 0
+"What may I call me?" , 0
+"What may I call them?" , 0
+"What may I call us?" , 0
+"May I have her name?" , 0
+"May I have his name?" , 0
+"May I have its name?" , 0
+"May I have my name?" , 0
+"May I have their names?" , 0
+"May I have our names?" , 0
+"May I ask you her name?" , 0
+"May I ask you their names?" , 0
+"May I ask you our names?" , 0
+"Good morning" , 0
+"Do you mind if I ask you her name?" , 0
+"Do you mind if I ask you its name?" , 0
+"Do you mind if I ask you my name?" , 0
+"Do you mind if I ask you their names?" , 0
+"Do you mind if I ask you our names?" , 0
+"Would you mind if I ask you her name?" , 0
+"Would you mind if I ask you my name?" , 0
+"Would you mind if I ask you their names?" , 0
+"Would you mind if I ask you our names?" , 0
+"May I have her name?" , 0
+"May I have his name?" , 0
+"May I have my name?" , 0
+"May I have their names?" , 0
+"How may I address me?" , 0
+"How may I address it?" , 0
+"How may I address them?" , 0
+"How may I address us?" , 0
+"Sorry! I did not catch her name?" , 0
+"Sorry! I did not catch his name?" , 0
+"Sorry! I did not catch our names?" , 0
+"Sorry! May I have her name again?" , 0
+"Sorry! May I have my name again?" , 0
+"Sorry! May I have their names again?" , 0
+"Sorry! May I have our names again?" , 0
+"Sorry! Can I have her name again?" , 0
+"Sorry! Can I have his name again?" , 0
+"Sorry! Can I have its name again?" , 0
+"Sorry! Can I have my name again?" , 0
+"Sorry! Can I have their names again?" , 0
+"Sorry! Can I have our names again?" , 0
+"Pardon me! May I have her name again?" , 0
+"Pardon me! May I have their names again?" , 0
+"Pardon me! May I have our names again?" , 0
+"Sorry! I seem to have forgotten its name" , 0
+"Sorry! I seem to have forgotten my name" , 0
+"Sorry! I seem to have forgotten their names" , 0
+"Sorry! I seem to have forgotten our names" , 0
+"I am afraid! I don't seem to remember its name again?" , 0
+"I am afraid! I don't seem to remember my name again?" , 0
+"I am afraid! I don't seem to remember their names again?" , 0
+"I am afraid! I don't seem to remember our names again?" , 0
+"Forgive me! her name's completely slipped my mind?" , 0
+"Forgive me! his name's completely slipped my mind?" , 0
+"Forgive me! its name's completely slipped my mind?" , 0
+"Forgive me! my name's completely slipped my mind?" , 0
+"Forgive me! their names've completely slipped my mind?" , 0
+"Forgive me! our names've completely slipped my mind?" , 0
+"This is so embarrassing, but I can not remember her name?" , 0
+"This is so embarrassing, but I can not remember his name?" , 0
+"This is so embarrassing, but I can not remember their names?" , 0
+"This is so embarrassing, but I can not remember our names?" , 0
+"I am so sorry, I am terrible with names. Can you repeat her name again?" , 0
+"I am so sorry, I am terrible with names. Can you repeat my name again?" , 0
+"I am so sorry, I am terrible with names. Can you repeat their names again?" , 0
+"I am so sorry, I am terrible with names. Can you repeat our names again?" , 0
+"hi, how are you doing?", 0
+"i'm fine. how about yourself?", 0
+"i'm pretty good. thanks for asking.", 0
+"no problem. so how have you been?", 0
+"i've been great. what about you?", 0
+"i've been good. i'm in school right now.", 0
+"tomorrow it will rain", 0
+"How are you?", 0
+"Hello", 0
+"Thank you", 0
+"Goodbye" , 0
+"How can you help me?", 0
+"what can you do?", 0
+"can you help me?", 0
+"how old are you?", 0
+"how old is she?", 0
+"tell me a story", 0
+"clean the room", 0
+"your age?",  0
+"what is your hobby?", 0
+"what are you interested in?", 0
+"what are you doing on your leasure time", 0
+"what are your favorite books?", 0
+"how do you overcome your bad days?", 0
+"what do you suggest to dress today?", 0
+"how do you solove this problem generally?", 0
+"let's build a trip to (.*)", 2
+"i want to book a taxi", 2
+"i would like to order a taxi", 2
+"let's take a taxi", 2
+"call me a taxi", 2
+"how can I order a taxi?", 2
+"order for me a taxi" , 2
+"how should i order a taxi?", 2
+"can you build a trip to (.*)", 2
+"let's build a journey", 2
+"can you build a journey", 2
+"I want to go to (.*) from (.*)", 2
+"I want to go to (.*)", 2
+"I want to go to centre", 2
+"I want to go to office", 2
+"which transport should i take to arrive to (.*)", 2
+"what should i take to arrive to (.*)", 2
+"which transport would you suggest to take to arrive to (.*)", 2
+"what would you suggest to take to arrive to (.*)", 2
+"I want to go home", 2
+"I would like to go to (.*) from (.*)", 2
+"I would like to go home from current location", 2
+"how can I go from (.*) to (.*)?", 2
+"how can we go from (.*) to (.*)?", 2
+"how can they go from (.*) to (.*)?", 2
+"what transport would you suggest me to take?", 2
+"what transport would you suggest us to take?", 2
+"what transport would you suggest them to take?", 2
+"suggest me a route to arrive to (.*)", 2
+"suggest us a route to arrive to (.*)", 2
+"suggest them a route to arrive to (.*)", 2
+"suggest me a route to go to (.*)", 2
+"what transport should I take to arive to (.*)?", 2
+"what is the best way to reach (.*)?", 2
+"how to reach to (.*)?", 2
+"can you take me to an excursion", 2
+"what is the shortes way to reach to (.*)?", 2
+"let us go to vooyage", 2
+"it is a travel time!", 2
+"let's travel to", 2
+"could you please tell me how to go to (.*)?", 2
+"could you please tell us how to go to (.*)?", 2
+"could you please tell them how to go to (.*)?", 2
+"could you please show me how to go to (.*)?", 2
+"could you please explain me how to go to (.*)?", 2
+"create a trip to (.*)", 2
+"create a trip to (.*) from (.*)", 2
+"what's wrong with that?", 0
+"he drew two butterflies and a flower on a napkin in a restaurant.", 0
+"he had dirty fingernails.", 0
+"here he comes now.", 0
+"doesn't crime cost more than police?", 0
+"and they're clean.", 0
+"he said he wasn't using drugs.", 0
+"and then you chase it.", 0
+"did you hear what happened at the baseball game?", 0
+"i'll say. my girlfriend has a nose like a drug dog.", 0
+"i told her i had gotten the last two on the shelf, but i offered her one of mine.", 0
+"she was standing behind me in a really slow line at the checkout counter.", 0
+"yes, but it isn't a fast-food restaurant, is it?", 0
+"i like to run around the bases.", 0
+"they're behind the outfield.", 0
+"he helped make the yankees the best team ever.", 0
+"i told her i wouldn't trade her for any other woman in the world.", 0
+"they will drop the new steak on the floor, step on it, and then spit on it.", 0
+"you're forgetting about the bathroom.", 0
+"then stop eating the bread!", 0
+"great. which one?", 0
+"that's disgusting.", 0
+"what happened?", 0
+"yes, in fact, i did.", 0
+"you're crazy.", 0
+"yes, he was smoking a cigarette.", 0
+"but a lot of old people are still interested in dating.", 0
+"what do you want the waiter to do?", 0
+"he shouldn't scuba dive until he retires.", 0
+"i can't believe how long this line is.", 0
+"it certainly is.", 0
+"is that it?", 0
+"was he smoking?", 0
+"like what?", 0
+"i want to be a baseball player when i grow up.", 0
+"no human could possibly play golf that well.", 0
+"i feel safe here.", 0
+"is this a clean restaurant?", 0
+"yes, it is.", 0
+"what did she say?", 0
+"yeah. it's a lot of fun to slide.", 0
+"oops, i guess i was wrong. that isn't our waiter.", 0
+"that one. a group of eight just sat down at it.", 0
+"maybe he'll send us our waiter immediately.", 0
+"where are the seats?", 0
+"really? who with?", 0
+"did you have a date friday night?", 0
+"no. it costs too much money.", 0
+"the home run hitter on drugs?", 0
+"i guess you can't go back to that restaurant.", 0
+"yes. the lake is only 10 miles away.", 0
+"but we just got here.", 0
+"where did you go?", 0
+"well, there is one good table.", 0
+"because he likes to scuba dive.", 0
+"where do you get these crazy ideas?", 0
+"yes, but who is the greatest?", 0
+"i'll bet he was drinking, too.", 0
+"they should find a nice hobby.", 0
+"this is a popular restaurant, isn't it?", 0
+"me too.", 0
+"we have to practice every day.", 0
+"sometimes.", 0
+"i put lemon and butter in it.", 0
+"it is delicious, especially with butter.", 0
+"so do i.", 0
+"some people have good noses.", 0
+"finally, you put the ball into a hole in the ground.", 0
+"baseball is fun.", 0
+"What’s up?", 0
+"I want to create a new event", 3
+"add a new event", 3
+"add an event", 3
+"I want to create a new event for (.*)", 3
+"let's create a new event", 3
+"create a new event", 3
+"create a new event for tomorrow", 3
+"create an event", 3
+"how to create an event?", 3
+"cretion of the event", 3
+"let's initialize an event", 3
+"let's initialize an event for tomorrow", 3
+"let's initialize an event to go to (.*)", 3
+"let's build an event", 3
+"let's create an event for tomorrow to go to (.*)", 3
+"tomorrow i want to go to (.*)", 3
+"tomorrow at (.*) pm  i want to go to (.*)", 3
+"tomorrow at (.*) am  i want to go to (.*)", 3
+"tomorrow i want to go to (.*) from (.*)", 3
+"in these days i want to go to (.*)", 3
+"in these days i want to go to (.*) from (.*)", 3
+"in these days we want to go to (.*)", 3
+"on sunday i want to go to (.*)", 3
+"on monday i want to go to (.*)", 3
+"on tuesday i want to go to (.*)", 3
+"on tuesday at (.*) pm i want to go to (.*)", 3
+"on wednesday at (.*) am i want to go to (.*)", 3
+"on wednesday i want to go to (.*)", 3
+"on thursday i want to go to (.*)", 3
+"on friday i want to go to (.*)", 3
+"on saturday i want to go to (.*)", 3
+"on saturday at (.*) pm i want to go to (.*)", 3
+"on saturday at (.*) am i want to go to (.*)", 3
+"next month i want to go to (.*)", 3
+"next week i want to go to (.*)", 3
+"next week i want to go from (.*) to (.*)", 3
+"next week i want to go to (.*) from (.*) ", 3
+"this month i want to go to (.*)", 3
+"next month we want to go to (.*)", 3
+"this month we want to go to (.*)", 3
+"let's build a trip for tomorrow", 3
+"in January i want to go to (.*)", 3 
+"in February i want to go to (.*)", 3 
+"in March i want to go to (.*)", 3 
+"in April i want to go to (.*)", 3 
+"in May i want to go to (.*)", 3 
+"in June i want to go to (.*)", 3 
+"in July i want to go to (.*)", 3  
+"in August i want to go to (.*)", 3 
+"in September i want to go to (.*)", 3 
+"in October i want to go to (.*)", 3 
+"in November i want to go to (.*)", 3 
+"in December i want to go to (.*)", 3
+"let's organize trip for the next week", 3
+"let's organize trip for the next month", 3
+"let's organize trip for the next month", 3
+"let's organize trip for January", 3
+"let's organize trip for October", 3
+"let's organize trip for March", 3
+"let's organize trip for December", 3
+"let's organize trip for July", 3
+"let's organize trip for April", 3
+"i want to edit my events", 4
+"i want to edit my event", 4
+"i want to edit my last event", 4
+"i want to edit the last event", 4
+"how can I edit my events", 4
+"let's edit my events", 4
+"edit events", 4
+"i want to modify my events", 4
+"i want to modify my event", 4
+"i want to modify my last event", 4
+"i want to modify the last event", 4
+"how can I modify my events", 4
+"let's modify my events", 4
+"modify events", 4
+"i want to update my events", 4
+"i want to update my event", 4
+"i want to update my last event", 4
+"i want to update the last event", 4
+"how can I update my events", 4
+"let's update my events", 4
+"update events", 4
+"i want to change my events", 4
+"i want to change my event", 4
+"i want to change my last event", 4
+"i want to change the last event", 4
+"how can I change my events", 4
+"let's change my events", 4
+"change events", 4
+"i want to make some changes to my events" , 4
+"i would like to make some changes to my events" , 4
+"let's apply some changes to my events" , 4
+"i want to edit my transport preferences", 5
+"i want to edit the transport preferences", 5
+"how can I edit my transport preferences", 5
+"let's edit my transport preferences", 5
+"edit transport preferences", 5
+"i want to modify my transport preferences", 5
+"how can I modify my transport preferences", 5
+"let's modify my transport preferences", 5
+"let's modify the transport preferences", 5
+"modify transport preferences", 5
+"i want to update my transport preferences", 5
+"how can I update my transport preferences", 5
+"let's update my transport preferences", 5
+"update transport preferences", 5
+"i want to change my transport preferences", 5
+"how can I change my transport preferences", 5
+"let's change my transport preferences", 5
+"change transport preferences", 5
+"change the transport preferences", 5
+"i want to make some changes to my transport preferences" , 5
+"i would like to make some changes to my transport preferences" , 5
+"let's apply some changes to my transport preferences" , 5

@@ -1,0 +1,8 @@
+# environment variables
+# DB config
+DATABASE_URL = jdbc:postgresql://lunatestdb.lunalabs.it:6344/avti_cb_test
+host=lunatestdb.lunalabs.it 
+user=avti_cb_t 
+password=wW2QiaR6AUk6JmweR3h 
+dbname=avti_cb_test 
+port =6344

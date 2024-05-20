@@ -1,0 +1,2419 @@
+[
+    {
+        "text": "at 3pm i want to go from via Ippodromo, 5 to via Garibaldi, 4",
+        "annotations": [
+            {
+                "label": "TIME",
+                "start": 3,
+                "end": 6,
+                "word": "3pm"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 25,
+                "end": 41,
+                "word": "via Ippodromo, 5"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 45,
+                "end": 61,
+                "word": "via Garibaldi, 4"
+            }
+        ]
+    },
+    {
+        "text": "let's tomorrow at 5am to centre",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 6,
+                "end": 14,
+                "word": "tomorrow"
+            },
+            {
+                "label": "TIME",
+                "start": 18,
+                "end": 21,
+                "word": "5am"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 25,
+                "end": 31,
+                "word": "centre"
+            }
+        ]
+    },
+    {
+        "text": "let's go on Friday at 5am to centre",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 12,
+                "end": 18,
+                "word": "Friday"
+            },
+            {
+                "label": "TIME",
+                "start": 22,
+                "end": 25,
+                "word": "5am"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 29,
+                "end": 35,
+                "word": "centre"
+            }
+        ]
+    },
+    {
+        "text": "next week i want to go from via Ippodromo, 5 to via Garibaldi, 4",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 9,
+                "word": "next week"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 28,
+                "end": 44,
+                "word": "via Ippodromo, 5"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 48,
+                "end": 64,
+                "word": "via Garibaldi, 4"
+            }
+        ]
+    },
+    {
+        "text": "i want to order a taxi",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 18,
+                "end": 22,
+                "word": "taxi"
+            }
+        ]
+    },
+    {
+        "text": "i want to take taxi from via Ippodromo, 5 to via Garibaldi, 4",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 15,
+                "end": 19,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 25,
+                "end": 41,
+                "word": "via Ippodromo, 5"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 45,
+                "end": 61,
+                "word": "via Garibaldi, 4"
+            }
+        ]
+    },
+    {
+        "text": "i want to go to Viale Elvezia, 18, 20154 Milano",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 16,
+                "end": 47,
+                "word": "Viale Elvezia, 18, 20154 Milano"
+            }
+        ]
+    },
+    {
+        "text": "i want to go from 123 Main St, New York, NY to Viale Elvezia, 18, 20154 Milano",
+        "annotations": [
+            {
+                "label": "LOC-FROM",
+                "start": 18,
+                "end": 43,
+                "word": "123 Main St, New York, NY"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 47,
+                "end": 78,
+                "word": "Viale Elvezia, 18, 20154 Milano"
+            }
+        ]
+    },
+    {
+        "text": "i want to order a taxi to Viale Elvezia, 18, 20154 Milano",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 18,
+                "end": 22,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 26,
+                "end": 57,
+                "word": "Viale Elvezia, 18, 20154 Milano"
+            }
+        ]
+    },
+    {
+        "text": "i want to take a taxi to Viale Elvezia, 18, 20154 Milano",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 17,
+                "end": 21,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 25,
+                "end": 56,
+                "word": "Viale Elvezia, 18, 20154 Milano"
+            }
+        ]
+    },
+    {
+        "text": "i want to take a taxi from 123 Main St, New York, NY to Viale Elvezia, 18, 20154 Milano",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 17,
+                "end": 21,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 27,
+                "end": 52,
+                "word": "123 Main St, New York, NY"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 56,
+                "end": 87,
+                "word": "Viale Elvezia, 18, 20154 Milano"
+            }
+        ]
+    },
+    {
+        "text": "i want to take a taxi to Viale Elvezia, 18, 20154 Milano from 123 Main St, New York, NY",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 17,
+                "end": 21,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 25,
+                "end": 56,
+                "word": "Viale Elvezia, 18, 20154 Milano"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 62,
+                "end": 87,
+                "word": "123 Main St, New York, NY"
+            }
+        ]
+    },
+    {
+        "text": "i want to take a taxi to 123 Main St, New York, NY",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 17,
+                "end": 21,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 25,
+                "end": 50,
+                "word": "123 Main St, New York, NY"
+            }
+        ]
+    },
+    {
+        "text": "Tomorrow at 3pm i want to take a taxi from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 8,
+                "word": "Tomorrow"
+            },
+            {
+                "label": "TIME",
+                "start": 12,
+                "end": 15,
+                "word": "3pm"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 33,
+                "end": 37,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 43,
+                "end": 59,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 63,
+                "end": 80,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "On Friday at 12.00 i want to take a scooter from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 3,
+                "end": 9,
+                "word": "Friday"
+            },
+            {
+                "label": "TIME",
+                "start": 13,
+                "end": 18,
+                "word": "12.00"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 36,
+                "end": 43,
+                "word": "scooter"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 49,
+                "end": 65,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 69,
+                "end": 86,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "I need to catch a train from Roma Termini station to Napoli Centrale station at 10am tomorrow.",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 85,
+                "end": 93,
+                "word": "tomorrow"
+            },
+            {
+                "label": "TIME",
+                "start": 80,
+                "end": 84,
+                "word": "10am"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 18,
+                "end": 23,
+                "word": "train"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 29,
+                "end": 49,
+                "word": "Roma Termini station"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 53,
+                "end": 76,
+                "word": "Napoli Centrale station"
+            }
+        ]
+    },
+    {
+        "text": "I want to take the subway from Piazza del Duomo to Milano Centrale station at 9am.",
+        "annotations": [
+            {
+                "label": "TIME",
+                "start": 78,
+                "end": 81,
+                "word": "9am"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 19,
+                "end": 25,
+                "word": "subway"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 31,
+                "end": 47,
+                "word": "Piazza del Duomo"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 51,
+                "end": 74,
+                "word": "Milano Centrale station"
+            }
+        ]
+    },
+    {
+        "text": "Let's take the tram to Porta Venezia at 2pm.",
+        "annotations": [
+            {
+                "label": "TIME",
+                "start": 40,
+                "end": 43,
+                "word": "2pm"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 15,
+                "end": 19,
+                "word": "tram"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 23,
+                "end": 36,
+                "word": "Porta Venezia"
+            }
+        ]
+    },
+    {
+        "text": "I need to catch the bus from Corso Buenos Aires to Porta Garibaldi station at 7pm.",
+        "annotations": [
+            {
+                "label": "TIME",
+                "start": 78,
+                "end": 81,
+                "word": "7pm"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 20,
+                "end": 23,
+                "word": "bus"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 29,
+                "end": 47,
+                "word": "Corso Buenos Aires"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 51,
+                "end": 74,
+                "word": "Porta Garibaldi station"
+            }
+        ]
+    },
+    {
+        "text": "Can you show me where the nearest shared bike station is? I want to bike to Parco Sempione.",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 34,
+                "end": 53,
+                "word": "shared bike station"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 76,
+                "end": 90,
+                "word": "Parco Sempione"
+            }
+        ]
+    },
+    {
+        "text": "I prefer to ride a shared scooter from my house on Via Veneto to Piazza San Babila.",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 19,
+                "end": 33,
+                "word": "shared scooter"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 51,
+                "end": 61,
+                "word": "Via Veneto"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 65,
+                "end": 82,
+                "word": "Piazza San Babila"
+            }
+        ]
+    },
+    {
+        "text": "I'm planning to rent a shared motorbike to explore the city today.",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 23,
+                "end": 39,
+                "word": "shared motorbike"
+            },
+            {
+                "label": "DATE",
+                "start": 60,
+                "end": 65,
+                "word": "today"
+            }
+        ]
+    },
+    {
+        "text": "Let's share a car and drive to Lake Como this weekend.",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 6,
+                "end": 17,
+                "word": "share a car"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 31,
+                "end": 40,
+                "word": "Lake Como"
+            },
+            {
+                "label": "DATE",
+                "start": 46,
+                "end": 53,
+                "word": "weekend"
+            }
+        ]
+    },
+    {
+        "text": "I want to rent a bicycle to ride along the Naviglio Grande canal this afternoon.",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 17,
+                "end": 24,
+                "word": "bicycle"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 43,
+                "end": 64,
+                "word": "Naviglio Grande canal"
+            },
+            {
+                "label": "DATE",
+                "start": 70,
+                "end": 79,
+                "word": "afternoon"
+            }
+        ]
+    },
+    {
+        "text": "I need to drop off my bike at the rental shop on Via della Moscova by 6pm.",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 34,
+                "end": 66,
+                "word": "rental shop on Via della Moscova"
+            },
+            {
+                "label": "TIME",
+                "start": 70,
+                "end": 73,
+                "word": "6pm"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 22,
+                "end": 26,
+                "word": "bike"
+            }
+        ]
+    },
+    {
+        "text": "I don't mind walking to the restaurant on Via della Spiga. It's only 10 minutes away.",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 28,
+                "end": 57,
+                "word": "restaurant on Via della Spiga"
+            },
+            {
+                "label": "TIME",
+                "start": 69,
+                "end": 79,
+                "word": "10 minutes"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 13,
+                "end": 20,
+                "word": "walking"
+            }
+        ]
+    },
+    {
+        "text": "I want to rent a scooter to ride to the park on the outskirts of the city.",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 40,
+                "end": 73,
+                "word": "park on the outskirts of the city"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 17,
+                "end": 24,
+                "word": "scooter"
+            }
+        ]
+    },
+    {
+        "text": "I'm considering buying a motorbike to commute to work every day.",
+        "annotations": [
+            {
+                "label": "LOC-FROM",
+                "start": 49,
+                "end": 53,
+                "word": "work"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 25,
+                "end": 34,
+                "word": "motorbike"
+            }
+        ]
+    },
+    {
+        "text": "I need to pick up my car from the mechanic on Via Novara this afternoon.",
+        "annotations": [
+            {
+                "label": "LOC-FROM",
+                "start": 34,
+                "end": 56,
+                "word": "mechanic on Via Novara"
+            },
+            {
+                "label": "TIME",
+                "start": 62,
+                "end": 71,
+                "word": "afternoon"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 21,
+                "end": 24,
+                "word": "car"
+            }
+        ]
+    },
+    {
+        "text": "Let's share a car to go shopping at the mall in Rho.",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 40,
+                "end": 51,
+                "word": "mall in Rho"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 6,
+                "end": 17,
+                "word": "share a car"
+            }
+        ]
+    },
+    {
+        "text": "I want to take a taxi from my hotel on Corso Como to the airport tomorrow morning.",
+        "annotations": [
+            {
+                "label": "LOC-FROM",
+                "start": 39,
+                "end": 49,
+                "word": "Corso Como"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 57,
+                "end": 64,
+                "word": "airport"
+            },
+            {
+                "label": "DATE",
+                "start": 65,
+                "end": 73,
+                "word": "tomorrow"
+            },
+            {
+                "label": "TIME",
+                "start": 74,
+                "end": 81,
+                "word": "morning"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 17,
+                "end": 21,
+                "word": "taxi"
+            }
+        ]
+    },
+    {
+        "text": "Can you recommend a good taxi company to take me to the train station at 6am?",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 56,
+                "end": 69,
+                "word": "train station"
+            },
+            {
+                "label": "TIME",
+                "start": 73,
+                "end": 76,
+                "word": "6am"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 25,
+                "end": 29,
+                "word": "taxi"
+            }
+        ]
+    },
+    {
+        "text": "I'm flying to London from Malpensa airport next week.",
+        "annotations": [
+            {
+                "label": "LOC-FROM",
+                "start": 26,
+                "end": 42,
+                "word": "Malpensa airport"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 14,
+                "end": 20,
+                "word": "London"
+            },
+            {
+                "label": "DATE",
+                "start": 43,
+                "end": 52,
+                "word": "next week"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 4,
+                "end": 10,
+                "word": "flying"
+            }
+        ]
+    },
+    {
+        "text": "I want to take the ferry to Sardinia from the port in Genova.",
+        "annotations": [
+            {
+                "label": "LOC-FROM",
+                "start": 54,
+                "end": 60,
+                "word": "Genova"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 28,
+                "end": 36,
+                "word": "Sardinia"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 19,
+                "end": 24,
+                "word": "ferry"
+            }
+        ]
+    },
+    {
+        "text": "I need to rent a car to drive to the conference in Florence next month.",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 60,
+                "end": 70,
+                "word": "next month"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 17,
+                "end": 20,
+                "word": "car"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 51,
+                "end": 59,
+                "word": "Florence"
+            }
+        ]
+    },
+    {
+        "text": "I'm thinking of taking the train to Venice for the weekend.",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 51,
+                "end": 58,
+                "word": "weekend"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 27,
+                "end": 32,
+                "word": "train"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 36,
+                "end": 42,
+                "word": "Venice"
+            }
+        ]
+    },
+    {
+        "text": "Let's take the subway to the concert at San Siro stadium tonight.",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 57,
+                "end": 64,
+                "word": "tonight"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 15,
+                "end": 21,
+                "word": "subway"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 40,
+                "end": 56,
+                "word": "San Siro stadium"
+            }
+        ]
+    },
+    {
+        "text": "I want to take the tram to the museum on Corso Magenta this afternoon.",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 60,
+                "end": 69,
+                "word": "afternoon"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 19,
+                "end": 23,
+                "word": "tram"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 31,
+                "end": 54,
+                "word": "museum on Corso Magenta"
+            }
+        ]
+    },
+    {
+        "text": "I need to catch the bus to the countryside for a day trip tomorrow morning.",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 58,
+                "end": 66,
+                "word": "tomorrow"
+            },
+            {
+                "label": "TIME",
+                "start": 67,
+                "end": 74,
+                "word": "morning"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 20,
+                "end": 23,
+                "word": "bus"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 31,
+                "end": 42,
+                "word": "countryside"
+            }
+        ]
+    },
+    {
+        "text": "Can you recommend a good shared bike route to explore the city?",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 25,
+                "end": 36,
+                "word": "shared bike"
+            }
+        ]
+    },
+    {
+        "text": "I need to drop off my bike at the rental shop on Via Torino before 8pm.",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 34,
+                "end": 59,
+                "word": "rental shop on Via Torino"
+            },
+            {
+                "label": "TIME",
+                "start": 67,
+                "end": 70,
+                "word": "8pm"
+            }
+        ]
+    },
+    {
+        "text": "Tomorrow i want to take a shared car to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 8,
+                "word": "Tomorrow"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 26,
+                "end": 36,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 40,
+                "end": 57,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "I prefer to ride a shared scooter to avoid traffic on the way to the office.",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 19,
+                "end": 33,
+                "word": "shared scooter"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 69,
+                "end": 75,
+                "word": "office"
+            }
+        ]
+    },
+    {
+        "text": "at 3pm i want to take taxi to via Roma 22",
+        "annotations": [
+            {
+                "label": "TIME",
+                "start": 3,
+                "end": 6,
+                "word": "3pm"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 22,
+                "end": 26,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 30,
+                "end": 41,
+                "word": "via Roma 22"
+            }
+        ]
+    },
+    {
+        "text": "in two days at 3pm i want to take a shared car to via Ippodromo 1",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 11,
+                "word": "in two days"
+            },
+            {
+                "label": "TIME",
+                "start": 15,
+                "end": 18,
+                "word": "3pm"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 36,
+                "end": 46,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 54,
+                "end": 65,
+                "word": "Ippodromo 1"
+            }
+        ]
+    },
+    {
+        "text": "in 3 days at 3pm i want to take a shared car to via Ippodromo 1",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 9,
+                "word": "in 3 days"
+            },
+            {
+                "label": "TIME",
+                "start": 13,
+                "end": 16,
+                "word": "3pm"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 34,
+                "end": 44,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 52,
+                "end": 63,
+                "word": "Ippodromo 1"
+            }
+        ]
+    },
+    {
+        "text": "I'm thinking of buying a shared motorbike to save money on transportation.",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 25,
+                "end": 41,
+                "word": "shared motorbike"
+            }
+        ]
+    },
+    {
+        "text": "in a week at 5:00 i want to take a car to via Ippodromo 1",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 9,
+                "word": "in a week"
+            },
+            {
+                "label": "TIME",
+                "start": 13,
+                "end": 17,
+                "word": "5:00"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 35,
+                "end": 38,
+                "word": "car"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 46,
+                "end": 57,
+                "word": "Ippodromo 1"
+            }
+        ]
+    },
+    {
+        "text": "Let's share a car and take a road trip to the coast this weekend.",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 57,
+                "end": 64,
+                "word": "weekend"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 6,
+                "end": 17,
+                "word": "share a car"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 46,
+                "end": 51,
+                "word": "coast"
+            }
+        ]
+    },
+    {
+        "text": "Tomorrow at 3 pm i want to take a shared car to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 8,
+                "word": "Tomorrow"
+            },
+            {
+                "label": "TIME",
+                "start": 12,
+                "end": 16,
+                "word": "3 pm"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 34,
+                "end": 44,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 48,
+                "end": 65,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "April, 25 i want to take a shared car from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 9,
+                "word": "April, 25"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 27,
+                "end": 37,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 43,
+                "end": 59,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 63,
+                "end": 80,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "25 October I want to take a taxi to the Colosseum from my hotel at Via del Corso, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 10,
+                "word": "25 October"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 28,
+                "end": 32,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 36,
+                "end": 49,
+                "word": "the Colosseum"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 67,
+                "end": 84,
+                "word": "Via del Corso, 18"
+            }
+        ]
+    },
+    {
+        "text": "I need to get to my hotel at Via dei Benci, 32 by 7pm tonight",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 54,
+                "end": 61,
+                "word": "tonight"
+            },
+            {
+                "label": "TIME",
+                "start": 50,
+                "end": 53,
+                "word": "7pm"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 29,
+                "end": 46,
+                "word": "Via dei Benci, 32"
+            }
+        ]
+    },
+    {
+        "text": "in 5 months i would like to go to Paris",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 11,
+                "word": "in 5 months"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 34,
+                "end": 39,
+                "word": "Paris"
+            }
+        ]
+    },
+    {
+        "text": "I want to rent a bicycle to ride to the farmer's market on Sunday morning.",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 17,
+                "end": 24,
+                "word": "bicycle"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 40,
+                "end": 55,
+                "word": "farmer's market"
+            },
+            {
+                "label": "DATE",
+                "start": 59,
+                "end": 65,
+                "word": "Sunday"
+            },
+            {
+                "label": "TIME",
+                "start": 66,
+                "end": 73,
+                "word": "morning"
+            }
+        ]
+    },
+    {
+        "text": "I don't mind walking to the concert venue on Via Savona. It's only 15 minutes away.",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 13,
+                "end": 20,
+                "word": "walking"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 28,
+                "end": 55,
+                "word": "concert venue on Via Savona"
+            }
+        ]
+    },
+    {
+        "text": "I'm considering buying a car to drive to work every day.",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 25,
+                "end": 28,
+                "word": "car"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 41,
+                "end": 45,
+                "word": "work"
+            },
+            {
+                "label": "DATE",
+                "start": 46,
+                "end": 55,
+                "word": "every day"
+            }
+        ]
+    },
+    {
+        "text": "I need to pick up my shared car from the parking garage on Via della Libert\u00c3\u0192 this afternoon",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 28,
+                "end": 31,
+                "word": "car"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 41,
+                "end": 77,
+                "word": "parking garage on Via della Libert\u00c3\u0192"
+            },
+            {
+                "label": "TIME",
+                "start": 83,
+                "end": 92,
+                "word": "afternoon"
+            }
+        ]
+    },
+    {
+        "text": "Let's share a car to go hiking in the mountains this weekend.",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 6,
+                "end": 17,
+                "word": "share a car"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 38,
+                "end": 47,
+                "word": "mountains"
+            },
+            {
+                "label": "DATE",
+                "start": 53,
+                "end": 60,
+                "word": "weekend"
+            }
+        ]
+    },
+    {
+        "text": "I want to take a taxi from the train station to my hotel in the city center.",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 17,
+                "end": 21,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 31,
+                "end": 44,
+                "word": "train station"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 64,
+                "end": 75,
+                "word": "city center"
+            }
+        ]
+    },
+    {
+        "text": "Can you recommend a good taxi company to take me to the airport early in the morning?",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 25,
+                "end": 29,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 56,
+                "end": 63,
+                "word": "airport"
+            },
+            {
+                "label": "TIME",
+                "start": 77,
+                "end": 84,
+                "word": "morning"
+            }
+        ]
+    },
+    {
+        "text": "Can you recommend the best way to get to Piazza del Popolo from here?",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 41,
+                "end": 58,
+                "word": "Piazza del Popolo"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 64,
+                "end": 68,
+                "word": "here"
+            }
+        ]
+    },
+    {
+        "text": "How can I get to the airport from my hotel at Via Nazionale, 46?",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 21,
+                "end": 28,
+                "word": "airport"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 46,
+                "end": 63,
+                "word": "Via Nazionale, 46"
+            }
+        ]
+    },
+    {
+        "text": "Is there a bus that goes to the beach from here?",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 11,
+                "end": 14,
+                "word": "bus"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 28,
+                "end": 37,
+                "word": "the beach"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 43,
+                "end": 47,
+                "word": "here"
+            }
+        ]
+    },
+    {
+        "text": "Can I take the subway to the Vatican?",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 15,
+                "end": 21,
+                "word": "subway"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 29,
+                "end": 36,
+                "word": "Vatican"
+            }
+        ]
+    },
+    {
+        "text": "I need to get to the train station at Via Giuseppe Garibaldi, 4 by 9am",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 38,
+                "end": 63,
+                "word": "Via Giuseppe Garibaldi, 4"
+            },
+            {
+                "label": "TIME",
+                "start": 67,
+                "end": 70,
+                "word": "9am"
+            }
+        ]
+    },
+    {
+        "text": "What's the best way to get to the Uffizi Gallery from here?",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 34,
+                "end": 48,
+                "word": "Uffizi Gallery"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 54,
+                "end": 58,
+                "word": "here"
+            }
+        ]
+    },
+    {
+        "text": "I'd like to take the ferry to Capri from Naples",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 21,
+                "end": 26,
+                "word": "ferry"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 30,
+                "end": 35,
+                "word": "Capri"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 41,
+                "end": 47,
+                "word": "Naples"
+            }
+        ]
+    },
+    {
+        "text": "Can you recommend a good bike route to see the sights?",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 25,
+                "end": 29,
+                "word": "bike"
+            }
+        ]
+    },
+    {
+        "text": "Is it faster to take the subway or the bus to the concert tonight?",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 25,
+                "end": 31,
+                "word": "subway"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 39,
+                "end": 42,
+                "word": "bus"
+            },
+            {
+                "label": "DATE",
+                "start": 58,
+                "end": 65,
+                "word": "tonight"
+            }
+        ]
+    },
+    {
+        "text": "I want to take the tram to the Duomo from my hotel at Corso Buenos Aires, 42",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 19,
+                "end": 23,
+                "word": "tram"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 31,
+                "end": 36,
+                "word": "Duomo"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 54,
+                "end": 76,
+                "word": "Corso Buenos Aires, 42"
+            }
+        ]
+    },
+    {
+        "text": "How can I get to the museum from here?",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 17,
+                "end": 27,
+                "word": "the museum"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 33,
+                "end": 37,
+                "word": "here"
+            }
+        ]
+    },
+    {
+        "text": "I need to take the subway to the shopping district from my hotel at Via Montenapoleone, 18",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 19,
+                "end": 25,
+                "word": "subway"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 29,
+                "end": 50,
+                "word": "the shopping district"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 68,
+                "end": 90,
+                "word": "Via Montenapoleone, 18"
+            }
+        ]
+    },
+    {
+        "text": "What's the best way to get to the train station from here?",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 30,
+                "end": 47,
+                "word": "the train station"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 53,
+                "end": 57,
+                "word": "here"
+            }
+        ]
+    },
+    {
+        "text": "I want to take a taxi to the airport from my hotel at Via dei Ginori, 28",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 17,
+                "end": 21,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 25,
+                "end": 36,
+                "word": "the airport"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 54,
+                "end": 72,
+                "word": "Via dei Ginori, 28"
+            }
+        ]
+    },
+    {
+        "text": "Is there a bike share program in this city?",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 11,
+                "end": 21,
+                "word": "bike share"
+            }
+        ]
+    },
+    {
+        "text": "I'd like to take the tram to the park from here",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 21,
+                "end": 25,
+                "word": "tram"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 29,
+                "end": 37,
+                "word": "the park"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 43,
+                "end": 47,
+                "word": "here"
+            }
+        ]
+    },
+    {
+        "text": "How can I get to the beach from my hotel at Via dei Calzaiuoli, 6?",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 17,
+                "end": 26,
+                "word": "the beach"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 44,
+                "end": 65,
+                "word": "Via dei Calzaiuoli, 6"
+            }
+        ]
+    },
+    {
+        "text": "I want to take the subway to the Colosseum from my hotel at Via Cavour, 123",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 19,
+                "end": 25,
+                "word": "subway"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 29,
+                "end": 42,
+                "word": "the Colosseum"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 60,
+                "end": 75,
+                "word": "Via Cavour, 123"
+            }
+        ]
+    },
+    {
+        "text": "I need to catch a taxi to my meeting at Piazza della Repubblica",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 18,
+                "end": 22,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 40,
+                "end": 63,
+                "word": "Piazza della Repubblica"
+            }
+        ]
+    },
+    {
+        "text": "Is there a ferry that goes to the island from here?",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 11,
+                "end": 16,
+                "word": "ferry"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 30,
+                "end": 40,
+                "word": "the island"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 46,
+                "end": 50,
+                "word": "here"
+            }
+        ]
+    },
+    {
+        "text": "What's the best way to get to the museum from here?",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 30,
+                "end": 40,
+                "word": "the museum"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 46,
+                "end": 50,
+                "word": "here"
+            }
+        ]
+    },
+    {
+        "text": "I want to take the bus to the market from my hotel at Via delle Oche, 11",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 19,
+                "end": 22,
+                "word": "bus"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 26,
+                "end": 36,
+                "word": "the market"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 54,
+                "end": 72,
+                "word": "Via delle Oche, 11"
+            }
+        ]
+    },
+    {
+        "text": "How can I get to the park from here?",
+        "annotations": [
+            {
+                "label": "LOC-TO",
+                "start": 17,
+                "end": 25,
+                "word": "the park"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 31,
+                "end": 35,
+                "word": "here"
+            }
+        ]
+    },
+    {
+        "text": "I'd like to take the tram to the river from my hotel at Lungarno Guicciardini, 15",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 21,
+                "end": 25,
+                "word": "tram"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 29,
+                "end": 38,
+                "word": "the river"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 56,
+                "end": 81,
+                "word": "Lungarno Guicciardini, 15"
+            }
+        ]
+    },
+    {
+        "text": "Is there a bike rental place near here?",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 11,
+                "end": 15,
+                "word": "bike"
+            }
+        ]
+    },
+    {
+        "text": "Can you recommend a good walking trail?",
+        "annotations": [
+            {
+                "label": "TRANSPORT",
+                "start": 25,
+                "end": 32,
+                "word": "walking"
+            }
+        ]
+    },
+    {
+        "text": "tomorrow at 15 pm I want to go from Duomo to Garibaldi",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 8,
+                "word": "tomorrow"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 36,
+                "end": 41,
+                "word": "Duomo"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 45,
+                "end": 54,
+                "word": "Garibaldi"
+            }
+        ]
+    },
+    {
+        "text": "add a new event 18 June to go to via Torino 12 at 3pm",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 16,
+                "end": 23,
+                "word": "18 June"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 33,
+                "end": 46,
+                "word": "via Torino 12"
+            },
+            {
+                "label": "TIME",
+                "start": 50,
+                "end": 53,
+                "word": "3pm"
+            }
+        ]
+    },
+    {
+        "text": "add a new event 18 June to go to via Torino 12 at 13",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 16,
+                "end": 23,
+                "word": "18 June"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 33,
+                "end": 46,
+                "word": "via Torino 12"
+            },
+            {
+                "label": "TIME",
+                "start": 50,
+                "end": 52,
+                "word": "13"
+            }
+        ]
+    },
+    {
+        "text": "25th April at 3pm i want to take a taxi to Viale Elvezia, 18, 20154 Milano",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 10,
+                "word": "25th April"
+            },
+            {
+                "label": "TIME",
+                "start": 14,
+                "end": 17,
+                "word": "3pm"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 35,
+                "end": 39,
+                "word": "taxi"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 43,
+                "end": 74,
+                "word": "Viale Elvezia, 18, 20154 Milano"
+            }
+        ]
+    },
+    {
+        "text": "next week i want to go to prague",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 9,
+                "word": "next week"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 26,
+                "end": 32,
+                "word": "prague"
+            }
+        ]
+    },
+    {
+        "text": "on 25th April i want to take a shared car from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 3,
+                "end": 13,
+                "word": "25th April"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 31,
+                "end": 41,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 47,
+                "end": 63,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 67,
+                "end": 84,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "add a new event 22 October at 15 to go to Milan",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 16,
+                "end": 26,
+                "word": "22 October"
+            },
+            {
+                "label": "TIME",
+                "start": 30,
+                "end": 32,
+                "word": "15"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 42,
+                "end": 47,
+                "word": "Milan"
+            }
+        ]
+    },
+    {
+        "text": "In 12 hs i want to take a shared car from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "TIME",
+                "start": 0,
+                "end": 8,
+                "word": "In 12 hs"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 26,
+                "end": 36,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 42,
+                "end": 58,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 62,
+                "end": 79,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "In 12 hrs i want to take a shared car from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "TIME",
+                "start": 0,
+                "end": 9,
+                "word": "In 12 hrs"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 27,
+                "end": 37,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 43,
+                "end": 59,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 63,
+                "end": 80,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "the day after tomorrow at 3.5 pm i want to take a shared car from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 22,
+                "word": "the day after tomorrow"
+            },
+            {
+                "label": "TIME",
+                "start": 26,
+                "end": 32,
+                "word": "3.5 pm"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 50,
+                "end": 60,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 66,
+                "end": 82,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 86,
+                "end": 103,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "the day after tomorrow at 3:15 pm i want to take a shared car from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 22,
+                "word": "the day after tomorrow"
+            },
+            {
+                "label": "TIME",
+                "start": 26,
+                "end": 33,
+                "word": "3:15 pm"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 51,
+                "end": 61,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 67,
+                "end": 83,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 87,
+                "end": 104,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "tomorrow at 15 pm I want to go from Duomo to Garibaldi",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 8,
+                "word": "tomorrow"
+            },
+            {
+                "label": "TIME",
+                "start": 12,
+                "end": 17,
+                "word": "15 pm"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 36,
+                "end": 41,
+                "word": "Duomo"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 45,
+                "end": 54,
+                "word": "Garibaldi"
+            }
+        ]
+    },
+    {
+        "text": "In 9 days i want to take a shared car from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 9,
+                "word": "In 9 days"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 27,
+                "end": 37,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 43,
+                "end": 59,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 63,
+                "end": 80,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "12-10-2023 i want to take a shared car from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 10,
+                "word": "12-10-2023"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 28,
+                "end": 38,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 44,
+                "end": 60,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 64,
+                "end": 81,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "25.04.2024 i want to take a shared car from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 10,
+                "word": "25.04.2024"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 28,
+                "end": 38,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 44,
+                "end": 60,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 64,
+                "end": 81,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "12/07/2023 i want to take a shared car from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 10,
+                "word": "12/07/2023"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 28,
+                "end": 38,
+                "word": "shared car"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 44,
+                "end": 60,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 64,
+                "end": 81,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "add a new event 18 June via Torino 12 at 13",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 16,
+                "end": 23,
+                "word": "18 June"
+            }
+        ]
+    },
+    {
+        "text": "In 1h i want to take a shared scooter from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "TIME",
+                "start": 0,
+                "end": 5,
+                "word": "In 1h"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 23,
+                "end": 37,
+                "word": "shared scooter"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 43,
+                "end": 59,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 63,
+                "end": 80,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "in 1hr i want to take a shared scooter from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "TIME",
+                "start": 0,
+                "end": 6,
+                "word": "in 1hr"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 24,
+                "end": 38,
+                "word": "shared scooter"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 44,
+                "end": 60,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 64,
+                "end": 81,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    },
+    {
+        "text": "i want to create a new event",
+        "annotations": []
+    },
+    {
+        "text": "In 2 days i want to take a shared scooter from via Paisiello 26 to Viale Elvezia, 18",
+        "annotations": [
+            {
+                "label": "DATE",
+                "start": 0,
+                "end": 9,
+                "word": "In 2 days"
+            },
+            {
+                "label": "TRANSPORT",
+                "start": 27,
+                "end": 41,
+                "word": "shared scooter"
+            },
+            {
+                "label": "LOC-FROM",
+                "start": 47,
+                "end": 63,
+                "word": "via Paisiello 26"
+            },
+            {
+                "label": "LOC-TO",
+                "start": 67,
+                "end": 84,
+                "word": "Viale Elvezia, 18"
+            }
+        ]
+    }
+]

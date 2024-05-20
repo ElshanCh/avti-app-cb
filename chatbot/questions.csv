@@ -1,0 +1,260 @@
+text,label
+"What is your name?", 1
+"Who are you?", 1
+"What's your name?", 1
+"Can I have your name?", 1
+"Can you tell me your name?", 1
+"what would your name be?", 1
+"What can I call you?", 1
+"How can I address you?", 1
+"What are you named?", 1
+"What do you call yourself?", 1
+"What does everyone call you?", 1
+"I am  Sam, and you?", 1 
+"My name is Kalam and yours?", 1
+"Hey, I never got a chance to ask your name, could you tell me your name, please?", 1
+"My name is Kalam and yours?", 1
+"How shall I address you?", 1
+"How may I address you?", 1
+"How should I address you?", 1
+"What should I call you?", 1
+"What shall I call you?", 1
+"What may I call you?", 1
+"May I have your name?", 1
+"How do they call you?", 1
+"May I ask you your name?", 1
+"Do you mind if I ask you your name?", 1
+"Would you mind if I ask you your name?", 1
+"May I have your name?", 1
+"How may I address you?", 1
+"Come again! I did not get it right.", 1
+"Sorry! I did not catch your name?", 1
+"Pardon me! I did not get it right?", 1
+"Sorry! May I have your name again?", 1
+"Sorry! Can I have your name again?", 1
+"Pardon me! May I have your name again?", 1
+"Sorry! I seem to have forgotten your name.", 1
+"I am afraid! I don't seem to remember your name again?", 1
+"Forgive me! your name's completely slipped my mind?", 1
+"This is so embarrassing, but I can not remember your name?", 1
+"I am so sorry, I am terrible with names. Can you repeat your name again?", 1
+"your name is?", 1
+"your name is", 1
+"it is a rainy day", 0
+"what is your brother's name?",0
+"what is your sisters's name?", 0
+"what is your mother's name?", 0
+"what is your fathers's name?", 0
+"what is your dog's name?", 0
+"what is your pet's name?", 0
+"what is his brother's name?", 0
+"what are your parents' names?", 0
+"what are your cousins' names?",0
+"What is his name?", 0
+"What is her name? ", 0
+"What are their names?", 0
+"What is my name?", 0
+"What is its name?", 0
+"What are our name?", 0
+"What's her name?", 0
+"What's his name?", 0
+"What're their names?", 0
+"What's my name?", 0
+"What's its name?", 0
+"What're their names?", 0
+"Can I have his name?", 0
+"Can I have her name?", 0
+"Can I have my name?", 0
+"Can I have their names?", 0
+"Can I have their names?", 0
+"Can I have its name?", 0
+"what would his name be?", 0
+"what would her name be?", 0
+"what would my name be?", 0
+"what would their names be?", 0
+"what would its name be?", 0
+"what would our names be?", 0
+"What can I call him?", 0
+"What can I call her?", 0
+"What can I call it?", 0
+"What can I call me?", 0
+"What can I call them?", 0
+"What can I call us?", 0
+"How can I address him?", 0
+"How can I address her?", 0
+"How can I address me?", 0
+"How can I address it?", 0
+"How can I address them?", 0
+"How can I address us?", 0
+"What are they named?", 0
+"What are we named?", 0
+"What is he named?", 0
+"What is she named?", 0
+"What is it named?", 0
+"What is I named?", 0
+"What does he call himself?", 0
+"What does she call herself?", 0
+"What does it call itself?", 0
+"What do I call myself?", 0
+"What do they call themself?", 0
+"What do we call ourself?", 0
+"What does everyone call him?", 0
+"What does everyone call her?", 0
+"What does everyone call it?", 0
+"What does everyone call me?", 0
+"What does everyone call them?", 0
+"What does everyone call us?", 0
+"I am  Sam, and she?", 0
+"I am  Sam, and he?", 0
+"I am  Sam, and it?", 0
+"I am  Sam, and they?", 0
+"I am  Sam, and we?", 0
+"My name is Kalam and hers?", 0
+"My name is Kalam and his?", 0
+"My name is Kalam and its?", 0
+"My name is Kalam and their?", 0
+"My name is Kalam and ours?", 0
+"Hey, I never got a chance to ask his name, could you tell me his name, please?", 0
+"Hey, I never got a chance to ask her name, could you tell me her name, please?", 0
+"Hey, I never got a chance to ask its name, could you tell me its name, please?", 0
+"Hey, I never got a chance to ask their names, could you tell me their names, please?" , 0
+"How shall I address him?" , 0
+"How shall I address her?" , 0
+"How shall I address me?" , 0
+"How shall I address it?" , 0
+"How shall I address them?" , 0
+"How shall I address us?" , 0
+"How may I address him?" , 0
+"How may I address her?" , 0
+"How may I address me?" , 0
+"How may I address it?" , 0
+"How may I address them?" , 0
+"How may I address us?" , 0
+"How should I address him?" , 0
+"How should I address her?" , 0
+"How should I address me?" , 0
+"How should I address it?" , 0
+"How should I address them?" , 0
+"How should I address us?" , 0
+"What should I call him?" , 0
+"What should I call her?" , 0
+"What should I call me?" , 0
+"What should I call it?" , 0
+"What should I call them?" , 0
+"What should I call us?" , 0
+"What shall I call him?" , 0
+"What shall I call her?" , 0
+"What shall I call me?" , 0
+"What shall I call it?" , 0
+"What shall I call them?" , 0
+"What shall I call us?" , 0
+"What may I call him?" , 0
+"What may I call her?" , 0
+"What may I call me?" , 0
+"What may I call it?" , 0
+"What may I call them?" , 0
+"What may I call us?" , 0
+"May I have her name?" , 0
+"May I have his name?" , 0
+"May I have its name?" , 0
+"May I have my name?" , 0
+"May I have their names?" , 0
+"May I have our names?" , 0
+"May I ask you her name?" , 0
+"May I ask you his name?" , 0
+"May I ask you its name?" , 0
+"May I ask you my name?" , 0
+"May I ask you their names?" , 0
+"May I ask you our names?" , 0
+"Do you mind if I ask you her name?" , 0
+"Do you mind if I ask you his name?" , 0
+"Do you mind if I ask you its name?" , 0
+"Do you mind if I ask you my name?" , 0
+"Do you mind if I ask you their names?" , 0
+"Do you mind if I ask you our names?" , 0
+"Would you mind if I ask you her name?" , 0
+"Would you mind if I ask you his name?" , 0
+"Would you mind if I ask you its name?" , 0
+"Would you mind if I ask you my name?" , 0
+"Would you mind if I ask you their names?" , 0
+"Would you mind if I ask you our names?" , 0
+"May I have her name?" , 0
+"May I have his name?" , 0
+"May I have its name?" , 0
+"May I have my name?" , 0
+"May I have their names?" , 0
+"May I have our names?" , 0
+"How may I address him?" , 0
+"How may I address her?" , 0
+"How may I address me?" , 0
+"How may I address it?" , 0
+"How may I address them?" , 0
+"How may I address us?" , 0
+"Sorry! I did not catch her name?" , 0
+"Sorry! I did not catch his name?" , 0
+"Sorry! I did not catch its name?" , 0
+"Sorry! I did not catch my name?" , 0
+"Sorry! I did not catch their names?" , 0
+"Sorry! I did not catch our names?" , 0
+"Sorry! May I have her name again?" , 0
+"Sorry! May I have his name again?" , 0
+"Sorry! May I have its name again?" , 0
+"Sorry! May I have my name again?" , 0
+"Sorry! May I have their names again?" , 0
+"Sorry! May I have our names again?" , 0
+"Sorry! Can I have her name again?" , 0
+"Sorry! Can I have his name again?" , 0
+"Sorry! Can I have its name again?" , 0
+"Sorry! Can I have my name again?" , 0
+"Sorry! Can I have their names again?" , 0
+"Sorry! Can I have our names again?" , 0
+"Pardon me! May I have her name again?" , 0
+"Pardon me! May I have his name again?" , 0
+"Pardon me! May I have its name again?" , 0
+"Pardon me! May I have my name again?" , 0
+"Pardon me! May I have their names again?" , 0
+"Pardon me! May I have our names again?" , 0
+"Sorry! I seem to have forgotten her name" , 0
+"Sorry! I seem to have forgotten his name" , 0
+"Sorry! I seem to have forgotten its name" , 0
+"Sorry! I seem to have forgotten my name" , 0
+"Sorry! I seem to have forgotten their names" , 0
+"Sorry! I seem to have forgotten our names" , 0
+"I am afraid! I don't seem to remember her name again?" , 0
+"I am afraid! I don't seem to remember his name again?" , 0
+"I am afraid! I don't seem to remember its name again?" , 0
+"I am afraid! I don't seem to remember my name again?" , 0
+"I am afraid! I don't seem to remember their names again?" , 0
+"I am afraid! I don't seem to remember our names again?" , 0
+"Forgive me! her name's completely slipped my mind?" , 0
+"Forgive me! his name's completely slipped my mind?" , 0
+"Forgive me! its name's completely slipped my mind?" , 0
+"Forgive me! my name's completely slipped my mind?" , 0
+"Forgive me! their names've completely slipped my mind?" , 0
+"Forgive me! our names've completely slipped my mind?" , 0
+"This is so embarrassing, but I can not remember her name?" , 0
+"This is so embarrassing, but I can not remember his name?" , 0
+"This is so embarrassing, but I can not remember its name?" , 0
+"This is so embarrassing, but I can not remember my name?" , 0
+"This is so embarrassing, but I can not remember their names?" , 0
+"This is so embarrassing, but I can not remember our names?" , 0
+"I am so sorry, I am terrible with names. Can you repeat her name again?" , 0
+"I am so sorry, I am terrible with names. Can you repeat his name again?" , 0
+"I am so sorry, I am terrible with names. Can you repeat its name again?" , 0
+"I am so sorry, I am terrible with names. Can you repeat my name again?" , 0
+"I am so sorry, I am terrible with names. Can you repeat their names again?" , 0
+"I am so sorry, I am terrible with names. Can you repeat our names again?" , 0
+"hi, how are you doing?", 0
+"i'm fine. how about yourself?", 0
+"i'm pretty good. thanks for asking.", 0
+"no problem. so how have you been?", 0
+"i've been great. what about you?", 0
+"i've been good. i'm in school right now.", 0
+"tomorrow it will rain", 0
+"How are you?", 0
+"Hello", 0
+"Thank you", 0
+"Goodbye" , 0
+"How can you help me?", 0
+"what can you do?", 0
+"can you help me?", 0
